@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<center><h1>Welcome to the Philippines!</h1></center>
+</head>
+<body>
+	<center><h2>Where do you want to go?</h2>
+	<a href="Pangasinan.html">Pangasinan</a>
+	<a href="Ilocos Sur.html">Ilocos Sur</a></center>
+	<center><img src="pics/beaches.gif" id=".bg"></center>
+</body>
+</html>
